@@ -17,6 +17,7 @@ For now only the following platforms are supported:
 - `switch`
 - `select`
 - `climate`
+- `button`
 
 ## Installation
 
